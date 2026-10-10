@@ -1,2 +1,3 @@
 # memoirgrid-privacy
-Memoirgrid privacy policy
+Memoirgrid privacy policy 
+
